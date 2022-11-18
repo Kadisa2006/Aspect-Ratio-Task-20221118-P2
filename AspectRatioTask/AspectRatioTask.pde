@@ -27,14 +27,14 @@ void setup()
   backgroundImageY = appHeight*0;
   backgroundImageWidth = appWidth-1;
   backgroundImageHeight = appHeight-1;
-  topHalfX = appWidth * 1/20;
+  topHalfX = appWidth * 1/10;
   topHalfY = appHeight * 1/12;
-  topHalfWidth = appWidth * 18/20;
+  topHalfWidth = appWidth * 8/10;
   topHalfHeight = appHeight * 4/12;
-  bottomHalfX = appWidth *1/2;
-  bottomHalfY = appHeight * 3/4;
-  bottomHalfWidth = appWidth * 1/4;
-  bottomHalfHeight = appHeight * 4/20;
+  bottomHalfX = appWidth *1/10;
+  bottomHalfY = appHeight * 7/12;
+  bottomHalfWidth = appWidth * 8/10;
+  bottomHalfHeight = appHeight * 4/12;
   //
   //Image Dimensions for Aspect Ratio: image meta data
   //Note: meta explored in MP3's or music files
