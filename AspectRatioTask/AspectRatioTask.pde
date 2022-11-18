@@ -28,11 +28,11 @@ void setup()
   backgroundImageWidth = appWidth-1;
   backgroundImageHeight = appHeight-1;
   topHalfX = appWidth * 1/10;
-  topHalfY = appHeight * 1/12;
+  topHalfY = appHeight * 7/12;
   topHalfWidth = appWidth * 8/10;
   topHalfHeight = appHeight * 4/12;
   bottomHalfX = appWidth *1/10;
-  bottomHalfY = appHeight * 7/12;
+  bottomHalfY = appHeight * 1/12;
   bottomHalfWidth = appWidth * 8/10;
   bottomHalfHeight = appHeight * 4/12;
   //
