@@ -22,7 +22,7 @@ void setup()
   //Population
   pic = loadImage("../Images Used/Landscape/Tommy-Shelby.jpg");
   pic2 = loadImage("../Images Used/Landscape/Scenery.jpg");
-  pic3 = loadImage("../Images Used/Portrait/Deadpool.jpg");
+  pic3 = loadImage("../Images Used/Portrait/Deadpool1.jpg");
   backgroundImageX = appWidth*0;
   backgroundImageY = appHeight*0;
   backgroundImageWidth = appWidth-1;
