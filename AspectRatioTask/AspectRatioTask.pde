@@ -41,8 +41,8 @@ void setup()
   //Note: Dimensions are found in the image file / Right Click / Properties / Details
   int picWidth1 = 800; //Tommy Shelby Landscape
   int picHeight1 = 600;
-  int picWidth2 = 860; //Scenery Landscape
-  int picHeight2 = 529;
+  int picWidth2 = 800; //Scenery Landscape
+  int picHeight2 = 200;
   int picWidth3 = 325; //Deadpool Portrait
   int picHeight3 = 485;
   //
